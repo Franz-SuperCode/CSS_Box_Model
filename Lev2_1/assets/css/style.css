@@ -1,0 +1,52 @@
+main {
+    text-align: center;
+}
+
+main h1 {
+    border: 2px dashed slateblue;
+    border-radius: 25px;
+    padding: 5px 40px;
+    margin: 20px 450px;
+}
+
+main h2 {
+
+    border: 2px solid slateblue;
+    box-shadow: 2px 2px 25px slateblue;
+    padding: 5px 40px;
+    border-radius: 25px;
+    margin: 20px 450px;
+}
+
+main h3 {
+    border: 8px slateblue;
+    border-style: double;
+    padding: 5px 40px;
+    border-radius: 15px;
+    margin: 20px 450px;
+}
+
+main p {
+    border: 2px solid orange;
+    width: 377px;
+    display: block;
+    margin: 20px auto;
+    padding: 17px;
+}
+
+main ol,
+ul {
+    border: 2px solid orange;
+    width: 310px;
+    display: block;
+    margin: auto;
+    padding: 10px 50px;
+}
+
+main li {
+    border-bottom: outset red;
+}
+
+main li {
+    text-align: left;
+}
